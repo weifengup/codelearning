@@ -7,5 +7,6 @@ int main() {
     cout << "Hello World!";
     cout<<"test";
 	cout<<"push";
+	cout<<"shujujiegou";
     return 0;
 }
