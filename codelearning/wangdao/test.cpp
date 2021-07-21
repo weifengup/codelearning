@@ -8,6 +8,6 @@ int main() {
     cout<<"test";
 	cout<<"push";
 	cout<<"shujujiegou";
-    cout<<"kaoyan";
+    cout<<"kaoyana";
     return 0;
 }
