@@ -2,6 +2,8 @@
 using namespace std;
 #include<stack>
 //打印值为x的节点的所有祖先（即打印根节点到x的路径）
+//要找出根节点到某一结点的路径上的所有节点，可以利用非递归的后序遍历
+//当遍历到x时，栈中的元素即为路径上的元素
 typedef struct tnode{
     int data;
     int time;
